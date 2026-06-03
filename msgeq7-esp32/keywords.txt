@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For MSGEQ7-ESP32 library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MSGEQ7	KEYWORD1
+FREQ	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+poll	KEYWORD2
+getValue	KEYWORD2
+setResolution	KEYWORD2
+setSettleTime	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+HZ_63	LITERAL1
+HZ_160	LITERAL1
+HZ_400	LITERAL1
+HZ_1000	LITERAL1
+HZ_2500	LITERAL1
+HZ_6250	LITERAL1
+HZ_16000	LITERAL1
